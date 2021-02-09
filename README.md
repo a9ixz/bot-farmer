@@ -1,4 +1,4 @@
-<img src="https://voids.femboy.lol/​​‌‌​​​​​‌‌​‌‌​‌​‌​​‌‌​‌​‌​‌​​​‌​‌‌​‌‌‌‌​‌‌‌​‌‌​​​‌‌​‌‌‌​‌‌​‌​‌​">
+<img src="https://voids.femboy.lol/">
 
 
 # Information & Installation
