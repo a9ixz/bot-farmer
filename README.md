@@ -1,4 +1,4 @@
-<img src="https://voids.femboy.lol/">
+<img src="https://images-ext-1.discordapp.net/external/AIDk0ZxpkQ9DXntNrq7wHZSjdWsEHWJ-vApq34KNCvg/http/pays.host/uploads/212b42f0-19fd-4110-ab70-eb010b8fc2ca/0mMQov7j.png?width=594&height=410">
 
 
 # Information & Installation
