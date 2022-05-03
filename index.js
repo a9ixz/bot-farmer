@@ -145,4 +145,4 @@ client.on('ready', async () => {
 })
 
 
-client.login('put-your-token-here')
+client.login('OTM5OTc1MzAzMDk3MzY4NzA5.YnGMkA.HyNNuNXMOzP2A5d7nefY_L2PSmE')
